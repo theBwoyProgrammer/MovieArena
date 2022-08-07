@@ -28,7 +28,7 @@ This website presents the best Tv shows. We have used TVmaze API to get the movi
 To use this project you need to clone the repository to your local machine, and open the folder then run index.html file which is the main file of the project.
 
 To get a local copy up and running follow these simple example steps.
-1. run - git clone https://github.com/EyasuTeshome/MovieArena.git
+1. run - git clone https://github.com/HatimDev-HE/MovieArena.git
 2. run - cd MovieArena
 3. run - code . (to open the directory in VSCode you can change the command if you have another editor)
 4. run - npm install
@@ -47,17 +47,17 @@ To work on this project locally you need to have Node.js installed in your machi
 
 ## Authors
 
-👤 Eyasu Teshome
-
-- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
-- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
-
 👤 Hatim Eddinani
 
 - GitHub: [@HatimDev](https://twitter.com/HatimDev)
 - Twitter: [@HatimDev-HE](https://github.com/HatimDev-HE)
 - LinkedIn: [@hatimdev](https://www.linkedin.com/in/hatimdev/)
+
+👤 Eyasu Teshome
+
+- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
+- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
+- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
 
 ## 🤝 Contributing
 
